@@ -1,0 +1,6 @@
+{
+  "name": "EstateEase AI — Smart Real Estate Platform",
+  "description": "Intelligent Indian property discovery, affordability EMI analysis, smart preference matching, and due-diligence verification platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
